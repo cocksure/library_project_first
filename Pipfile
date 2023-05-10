@@ -8,6 +8,8 @@ django = "==4.2.1"
 djangorestframework = "==3.14.0"
 dj-rest-auth = "*"
 django-allauth = "*"
+unicorn = "*"
+gunicorn = "*"
 
 [dev-packages]
 
